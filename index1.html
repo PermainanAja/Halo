@@ -180,7 +180,7 @@
       let hasStartedEffects = false;
 
       // Text for typing effect
-      const textToType = "Hai Misa! Mungkin kamu sekarang lagi sedih banget... Ingatlah bahwa setiap kesulitan akan membentukmu menjadi pribadi yang lebih kuat.";
+      const textToType = "Hai Misa! Mungkin kamu sekarang lagi sedih banget... Tapi ingatlah bahwa setiap kesulitan akan membentukmu menjadi pribadi yang lebih kuat. So keep smiling (˶ᵔ ᵕ ᵔ˶)";
       let charIndex = 0;
 
       // Web Audio API setup for cheerful twinkle tune
